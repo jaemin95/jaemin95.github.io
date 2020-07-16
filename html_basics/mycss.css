@@ -1,0 +1,35 @@
+/*
+    Jaemin Jin
+    CPSC 349-01
+    Professor Chary Vielma
+*/
+body, .first, .second{
+  background-color: skyblue;
+}
+
+.third {
+  background-color: blue;
+  color: gray;
+}
+
+.third a {
+  color: white;
+}
+
+nav {
+  border-style: solid;
+  border-width: medium;
+  background-color: #D98842;
+}
+
+a:hover {
+  color: green;
+}
+
+p {
+  background-color: yellow;
+}
+
+ul {
+  list-style-type: square;
+}
